@@ -1,3 +1,12 @@
+# Course Description
+
+Do you want to hone your Angular skills and develop great apps faster, all while following the recommended practices in the official Angular style guide? In this course, Angular CLI, you'll learn how to create, cultivate, debug, test, and serve apps using the Angular CLI, language features and code snippets. First, you'll learn how to generate an application. Next you'll explore how to generate new components and services. Finally, you'll explore and run tests serve code locally, build, and serve code intended for a production deployment. By the end of this course, you'll feel confident in your new Angular knowledge that you can apply right away in your own work.
+
+https://app.pluralsight.com/library/courses/angular-cli/description
+
+Course author: John Papa
+
+
 # AngularRouting
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
